@@ -1,4 +1,4 @@
-Start2Impact - Python project - Cryptocurrency reporting system
+# Start2Impact - Python project - Cryptocurrency reporting system
 
 Cryptocurrency reporting system that collect and store currencies's data every day in a JSON file.
 The system get the data through the Coinmarketcap APIs and stores 5 types of information:
