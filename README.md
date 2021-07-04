@@ -1,6 +1,6 @@
-# Start2Impact - Python project - Cryptocurrency reporting system
+# Start2Impact Python project: Cryptocurrency report generator
 
-Cryptocurrency reporting system that collect and store currencies's data every day in a JSON file.
+Cryptocurrency report generator that collect and store currencies's data every day in a JSON file.
 The system get the data through the Coinmarketcap APIs and stores 5 types of information:
 1) The cryptocurrency with the largest volume (in $) of the last 24 hours
 2) The best and worst 10 cryptocurrencies (by percentage increase in the last 24 hours)
